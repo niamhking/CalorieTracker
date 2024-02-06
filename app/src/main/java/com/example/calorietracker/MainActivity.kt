@@ -72,7 +72,7 @@ fun CalorieTracker(modifier: Modifier = Modifier) {
             )
             Spacer(modifier = Modifier.height(16.dp))
             Text(
-                text = "$calorieCount/2000 Kcal",
+                text = "$calorieCount/2000 KCal",
                 fontSize = 32.sp
             )
             Spacer(modifier = Modifier.height(16.dp))
